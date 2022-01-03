@@ -1,6 +1,6 @@
 # Pavlenty Cox
 
-Face         | *email*  | *phone* | *telegram* | *LinkedIn*
+***Face***         | ***email***  | ***phone*** | ***telegram*** | ***LinkedIn***
 -------------|:-------|:-----|:-----|:-------------:
 ![Pavlenty's face](/img/logo.jpeg "My face") | pavlentyone@gmail.com | +375(25)715-22-96 | @pavlentyone | [Pavlenty Cox](https://www.linkedin.com/in/pavlenty-cox-963b23192)
 
