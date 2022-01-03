@@ -7,8 +7,10 @@
 ## Short info
 Everybody likes to improve his life, learn new technologies, utilize his skills, make this planet a better place. I always want and do move in this direction. 
 I have a lot of **hard skills**. I'm used to **learn new things**. It is natural to me. I almost always have a good conversations with strangers. My friends tell me my English is good. I appreciate their support so I practice it with pleasure every day.
-[comment]: <> (Каждому человеку нравится развиваться, учиться новому, применять свои умения и навыки и приносить свой вклад в строительство мира вокруг нас. Я хочу и стремлюсь постоянно выполнять все перечисленное. 
+<!---
+Каждому человеку нравится развиваться, учиться новому, применять свои умения и навыки и приносить свой вклад в строительство мира вокруг нас. Я хочу и стремлюсь постоянно выполнять все перечисленное. 
 Я владею множеством **хард скилов**. **Изучение новой информации** для меня знакомо и привычно. У меня хорошо получается **общаться** с незнакомыми людьми. Знакомые говорят о моем хорошем разговорном **английском**. Я постоянно практикую его.)
+-->
 
 ---
 ## Hard skills
@@ -110,8 +112,9 @@ I managed to load some projects from the past:
 ## English
 Finished an English course called "English. Level B1". I talked to an acquaintance from America for a while in the past. I understand English conversation almost always. I read foreign tech literature without a problem. I develop writing and conversation skills in English from time to time.
 
-[comment] <> (Прошел курс Английского языка "Английский язык. Уровень B1". Некоторое время разговаривал со знакомой из Америки. Почти всегда понимаю сказанное на английском. Спокойно читаю зарубежную техническую литературу. Время от времени практикую письменный и разговорный навыки английского.)
-
+<!--
+Прошел курс Английского языка "Английский язык. Уровень B1". Некоторое время разговаривал со знакомой из Америки. Почти всегда понимаю сказанное на английском. Спокойно читаю зарубежную техническую литературу. Время от времени практикую письменный и разговорный навыки английского.)
+-->
 **Results of Egnlish tests**
 
 EfSet                        | Cambridge Assessment English   | Lingualeo
