@@ -1,11 +1,13 @@
 # Pavlenty Cox
-![Pavlenty's face](/img/logo.jpeg "My face")
-Name       | Link
------------|:----------------------:
-*email*    | pavlentyone@gmail.com
-*phone*    | +375(25)715-22-96
-*telegram* | @pavlentyone
-*LinkedIn* | [Pavlenty Cox](https://www.linkedin.com/in/pavlenty-cox-963b23192)
+
+Face         | Contacts
+-------------|:--------------------:
+![Pavlenty's face](/img/logo.jpeg "My face") |  Name       | Link
+                -----------|:----------------------:
+                *email*    | pavlentyone@gmail.com
+                *phone*    | +375(25)715-22-96
+                *telegram* | @pavlentyone
+                *LinkedIn* | [Pavlenty Cox](https://www.linkedin.com/in/pavlenty-cox-963b23192)
 
 ## Краткая информация
 [comment]: <> (Everybody likes to improve his life, learn new technologies, utilize his skills, make this planet a better place. I always want and do move in this direction. I have a lot of **hard skills**. I'm used to **learn new things**. It is natural to me. I almost always have a good conversations with strangers. My friends tell me my English is good. I appreciate their support so I practice it with pleasure every day.)
@@ -115,6 +117,6 @@ function Hello(){
 **Результаты тестов Английского**
 
 EfSet                        | Cambridge Assessment English   | Lingualeo
------------------------------|--------------------------------|------------------
+-----------------------------|--------------------------------|------------------:
 Your Score advanced 86%      |Your score is 19 out of 25.     |Language Level Advanced
 ![EfSet](/img/Screen_Shot_2021-12-13_at_8.46.32_PM.png "Скрин результата теста EfSet") |![Cambridge](/img/Screen_Shot_2021-11-22_at_7.31.21_PM.png "Скрин результата теста Cambridge Assessment English") |![Lingualeo](/img/Screen_Shot_2022-01-03_at_3.04.24_PM.png "Скрин Lingualeo") 
