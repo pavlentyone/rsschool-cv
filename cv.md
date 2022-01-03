@@ -108,7 +108,8 @@ I managed to load some projects from the past:
 
 ---
 ## English
-Finished an English course called "English. Level B1". I talked to an acquaintance from America for a while in the past. I understand English conversation almost always. I read foreign tech literature without a problem. I develop writing and conversation skills in English from time to time
+Finished an English course called "English. Level B1". I talked to an acquaintance from America for a while in the past. I understand English conversation almost always. I read foreign tech literature without a problem. I develop writing and conversation skills in English from time to time.
+
 [comment] <> (Прошел курс Английского языка "Английский язык. Уровень B1". Некоторое время разговаривал со знакомой из Америки. Почти всегда понимаю сказанное на английском. Спокойно читаю зарубежную техническую литературу. Время от времени практикую письменный и разговорный навыки английского.)
 
 **Results of Egnlish tests**
