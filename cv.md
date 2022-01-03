@@ -1,13 +1,8 @@
 # Pavlenty Cox
 
-Face         | Contacts
--------------|:--------------------:
-![Pavlenty's face](/img/logo.jpeg "My face") |  Name       | Link
-                -----------|:----------------------:
-                *email*    | pavlentyone@gmail.com
-                *phone*    | +375(25)715-22-96
-                *telegram* | @pavlentyone
-                *LinkedIn* | [Pavlenty Cox](https://www.linkedin.com/in/pavlenty-cox-963b23192)
+Face         | *email*  | *phone* | *telegram* | *LinkedIn*
+-------------|:-------|:-----|:-----|:-------------:
+![Pavlenty's face](/img/logo.jpeg "My face") | pavlentyone@gmail.com | +375(25)715-22-96 | @pavlentyone | [Pavlenty Cox](https://www.linkedin.com/in/pavlenty-cox-963b23192)
 
 ## Краткая информация
 [comment]: <> (Everybody likes to improve his life, learn new technologies, utilize his skills, make this planet a better place. I always want and do move in this direction. I have a lot of **hard skills**. I'm used to **learn new things**. It is natural to me. I almost always have a good conversations with strangers. My friends tell me my English is good. I appreciate their support so I practice it with pleasure every day.)
