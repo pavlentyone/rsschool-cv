@@ -1,8 +1,9 @@
 # Pavlenty Cox
 
-***logo***         | ***email***  | ***phone*** | ***telegram*** | ***LinkedIn***
+## Contacts
+***logo***         | ***email***  | ***phone*** | ***discord*** | ***LinkedIn***
 -------------|:-------|:-----|:-----|:-------------:
-![Pavlenty's face](/img/logo.jpeg "My face") | pavlentyone@gmail.com | +375(25)715-22-96 | @pavlentyone | [Pavlenty Cox](https://www.linkedin.com/in/pavlenty-cox-963b23192)
+![Pavlenty's face](/img/logo.jpeg "My face") | pavlentyone@gmail.com | +375(25)715-22-96 | pavlentyone (@pavlentyone) | [Pavlenty Cox](https://www.linkedin.com/in/pavlenty-cox-963b23192)
 
 ## Short info
 Everybody likes to improve his life, learn new technologies, utilize his skills, make this planet a better place. I always want and do move in this direction. 
