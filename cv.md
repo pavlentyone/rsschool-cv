@@ -115,5 +115,5 @@ function Hello(){
 
 EfSet                        | Cambridge Assessment English   | Lingualeo
 -----------------------------|--------------------------------|------------------
-> Your Score advanced 86%    |Your score is 19 out of 25.     |Language Level Advanced
+Your Score advanced 86%      |Your score is 19 out of 25.     |Language Level Advanced
 ![EfSet](/img/Screen_Shot_2021-12-13_at_8.46.32_PM.png "Скрин результата теста EfSet") |![Lingualeo](/img/Screen_Shot_2022-01-03_at_3.04.24_PM.png "Скрин Lingualeo") |![Cambridge](/img/Screen_Shot_2021-11-22_at_7.31.21_PM.png "Скрин результата теста Cambridge Assessment English")
