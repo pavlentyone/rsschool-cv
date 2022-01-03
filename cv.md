@@ -117,6 +117,6 @@ function Hello(){
 Результат теста на Lingualeo:
 > Language Level Advanced
 
-![Скрин результата теста EfSet]("Screen Shot 2021-12-13 at 8.46.32 PM".png "EfSet")
-![Скрин Lingualeo](./"Screen Shot 2022-01-03 at 3.04.24 PM".png "Lingualeo")
-![Скрин результата теста Lingualeo](./"Screen Shot 2021-11-22 at 7.31.21 PM".png "Cambridge Assessment English")
+![EfSet](/img/"Screen Shot 2021-12-13 at 8.46.32 PM".png "Скрин результата теста EfSet")
+![Lingualeo](/img/"Screen Shot 2022-01-03 at 3.04.24 PM".png "Скрин Lingualeo")
+![Cambridge](/img/"Screen Shot 2021-11-22 at 7.31.21 PM".png "Скрин результата теста Cambridge Assessment English")
