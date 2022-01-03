@@ -111,18 +111,9 @@ function Hello(){
 ## Английский язык
 Прошел курс Английского языка "Английский язык. Уровень B1". Некоторое время разговаривал со знакомой из Америки. Почти всегда понимаю сказанное на английском. Спокойно читаю зарубежную техническую литературу. Время от времени практикую письменный и разговорный навыки английского.
 
-Результаты теста efset:
-> Your Score advanced 86%
+**Результаты тестов Английского**
 
-Результат теста Cambridge Assessment English:
-> Your score is 19 out of 25. 
-> Your score means you might be ready to prepare for B1 Preliminary or B2 First
-
-Результат теста на Lingualeo:
-> Language Level Advanced
-
-![EfSet](/img/Screen_Shot_2021-12-13_at_8.46.32_PM.png "Скрин результата теста EfSet")
-
-![Lingualeo](/img/Screen_Shot_2022-01-03_at_3.04.24_PM.png "Скрин Lingualeo")
-
-![Cambridge](/img/Screen_Shot_2021-11-22_at_7.31.21_PM.png "Скрин результата теста Cambridge Assessment English")
+EfSet                        | Cambridge Assessment English   | Lingualeo
+-----------------------------|--------------------------------|------------------
+> Your Score advanced 86%    |Your score is 19 out of 25.     |Language Level Advanced
+![EfSet](/img/Screen_Shot_2021-12-13_at_8.46.32_PM.png "Скрин результата теста EfSet") |![Lingualeo](/img/Screen_Shot_2022-01-03_at_3.04.24_PM.png "Скрин Lingualeo") |![Cambridge](/img/Screen_Shot_2021-11-22_at_7.31.21_PM.png "Скрин результата теста Cambridge Assessment English")
