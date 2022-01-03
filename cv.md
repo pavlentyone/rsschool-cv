@@ -1,6 +1,9 @@
 # Павел Алексеюк
-*email*: pavlentyone@gmail.com
-*phone*: +375(25)715-22-96
+
+Средство   | Связи
+-----------|:----------------------:
+email      | pavlentyone@gmail.com
+phone      | +375(25)715-22-96
 
 ## Краткая информация
 Каждому человеку нравится развиваться, учиться новому, применять свои умения и навыки и приносить свой вклад в строительство мира вокруг нас. Я хочу и стремлюсь постоянно выполнять все перечисленное. 
@@ -36,10 +39,10 @@ function Hello(){
 }
 ```
 Сегодня успел загрузить парочку проектов моего прошлого: 
-[Попытка повторить главную страницу Disney](https://github.com/pavlentyone/ssp1.git)
-[Попытка работы с запросами и js](https://github.com/pavlentyone/ssp4.git)
-[Пробование OpenCV с C++](https://github.com/pavlentyone/OpenCVProjects.git)
-[Создание алгоритма нахождения пути на C++ с учителем Акира](https://github.com/pavlentyone/AkiraLuckyDog.git)
+* [Попытка повторить главную страницу Disney](https://github.com/pavlentyone/ssp1.git)
+* [Попытка работы с запросами и js](https://github.com/pavlentyone/ssp4.git)
+* [Пробование OpenCV с C++](https://github.com/pavlentyone/OpenCVProjects.git)
+* [Создание алгоритма нахождения пути на C++ с учителем Акира](https://github.com/pavlentyone/AkiraLuckyDog.git)
 
 ---
 ## Опыт работы
@@ -106,11 +109,14 @@ function Hello(){
 ## Английский язык
 Результаты теста efset:
 > Your Score advanced 86%
+
 Результат теста Cambridge Assessment English:
 > Your score is 19 out of 25. 
 > Your score means you might be ready to prepare for B1 Preliminary or B2 First
+
 Результат теста на Lingualeo:
 > Language Level Advanced
-![Скрин результата теста EfSet](./"Screen Shot 2021-12-13 at 8.46.32 PM" "EfSet")
-![Скрин Lingualeo](./"Screen Shot 2022-01-03 at 3.04.24 PM" "Lingualeo")
-![Скрин результата теста Lingualeo](./"Screen Shot 2021-11-22 at 7.31.21 PM" "Cambridge Assessment English")
+
+![Скрин результата теста EfSet](./"Screen Shot 2021-12-13 at 8.46.32 PM.png" "EfSet")
+![Скрин Lingualeo](./"Screen Shot 2022-01-03 at 3.04.24 PM.png" "Lingualeo")
+![Скрин результата теста Lingualeo](./"Screen Shot 2021-11-22 at 7.31.21 PM.png" "Cambridge Assessment English")
