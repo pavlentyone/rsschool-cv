@@ -105,3 +105,12 @@ function Hello(){
 ---
 ## Английский язык
 Результаты теста efset:
+> Your Score advanced 86%
+Результат теста Cambridge Assessment English:
+> Your score is 19 out of 25. 
+> Your score means you might be ready to prepare for B1 Preliminary or B2 First
+Результат теста на Lingualeo:
+> Language Level Advanced
+![Скрин результата теста EfSet](./"Screen Shot 2021-12-13 at 8.46.32 PM" "EfSet")
+![Скрин Lingualeo](./"Screen Shot 2022-01-03 at 3.04.24 PM" "Lingualeo")
+![Скрин результата теста Lingualeo](./"Screen Shot 2021-11-22 at 7.31.21 PM" "Cambridge Assessment English")
