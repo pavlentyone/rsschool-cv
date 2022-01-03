@@ -1,1 +1,1 @@
-https://pavlentyone.github.io/rsschool-cv/cv
+https://pavlentyone.github.io/rsschool-cv/cv.md
