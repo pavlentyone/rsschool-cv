@@ -118,6 +118,6 @@ Finished an English course called "English. Level B1". I talked to an acquaintan
 **Results of Egnlish tests**
 
 EfSet                        | Cambridge Assessment English   | Lingualeo
------------------------------|--------------------------------|------------------:
+-----------------------------|--------------------------------|---------------------------:
 Your Score advanced 86%      |Your score is 19 out of 25.     |Language Level Advanced
 ![EfSet](/img/Screen_Shot_2021-12-13_at_8.46.32_PM.png "EfSet ScreenShot") |![Cambridge](/img/Screen_Shot_2021-11-22_at_7.31.21_PM.png "Cambridge Assessment English ScreenShot") |![Lingualeo](/img/Screen_Shot_2022-01-03_at_3.04.24_PM.png "Lingualeo ScreenShot") 
