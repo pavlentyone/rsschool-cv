@@ -1,5 +1,5 @@
 # Pavlenty Cox
-
+![Pavlenty's face](/img/logo.jpeg "My face")
 Name       | Link
 -----------|:----------------------:
 *email*    | pavlentyone@gmail.com
