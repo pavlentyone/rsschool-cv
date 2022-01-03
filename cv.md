@@ -1,6 +1,6 @@
-# Павел Алексеюк
+# Pavlenty Cox
 
-Средство   | Связи
+Name       | Link
 -----------|:----------------------:
 *email*    | pavlentyone@gmail.com
 *phone*    | +375(25)715-22-96
@@ -9,29 +9,29 @@
 
 ## Краткая информация
 Каждому человеку нравится развиваться, учиться новому, применять свои умения и навыки и приносить свой вклад в строительство мира вокруг нас. Я хочу и стремлюсь постоянно выполнять все перечисленное. 
-Я владею множеством хард скилов. Bзучение новой информации для меня знакомо и привычно. У меня хорошо получается общаться с незнакомыми людьми. Знакомые говорят о моем хорошем разговорном английском. Я постоянно практикую его.
+Я владею множеством **хард скилов**. **Изучение новой информации** для меня знакомо и привычно. У меня хорошо получается **общаться** с незнакомыми людьми. Знакомые говорят о моем хорошем разговорном **английском**. Я постоянно практикую его.
 
 ---
 ## Навыки
 Имею опыт с различными операционными системами, приложениями, сервисами и языками программирования/разметки/запросов:
-* Операционные системы: macOS, iOS, Android, Windows NT, Linux
-* Языки программирования: C#, Java, C++, C, Lua, Python, JavaScript, GodotScript
-* Языки разметки: XAML, HTML, XML, SVG, Markdown
-* Языки запросов: PL SQL, LINQ
-* Другие языки: CSS
-* Cистемы контроля версий: Git
-* Пакетные менеджеры: NuGet, npm, pip, Pacman, APT
-* Системы управления базами данных: MS SQL, SQLite, Oracle SQL, MySQL
-* Программы для работы с СУБД: dbForge, MySQL Workbench, Microsoft SQL Server Management Studio, Microsoft Access
-* Среды программирования: Microsoft Visual Studio, Xcode, PyCharm, Eclipse, Qt Creator
-* Текстовые редакторы: Visual Studio Code, textEdit, Notepad
-* Программы для работы с документами: Google Sheets, Google Docs, Google Slides, Google Notes, Microsoft Word, Microsoft Excel, Microsoft Visio, Microsoft PowerPoint, Microsoft OneNote
-* Игровые движки: Unity3D, Godot
-* Среды симулирования и моделирования: Audodesk AutoCAD, Blender, V-REP3, Google SketchUp, Paint 3D, RoboDK, Visual Components
-* Фреймворки: .NET Framework, .NET Core, Mono, Unity, ASP.NET Core, Emgu CV Qt, GSL, MFC, OpenCV, Django
-* Модели программирования: функциональное, объектно-ориентированное, логическое, структурное, декларативное, императивное
-* Принципы программирования: Object Calisthenics, KISS, DRY, YANGI
-* Паттерны программирования: Strategy, Iterator, State, Observer, Template method, Proxy, Factory method, Singleton, Prototype, Facade
+* **Операционные системы**: macOS, iOS, Android, Windows NT, Linux
+* **Языки программирования**: C#, Java, C++, C, Lua, Python, JavaScript, GodotScript
+* **Языки разметки**: XAML, HTML, XML, SVG, Markdown
+* **Языки запросов**: PL SQL, LINQ
+* **Другие языки**: CSS
+* **Cистемы контроля версий**: Git
+* **Пакетные менеджеры**: NuGet, npm, pip, Pacman, APT
+* **Системы управления базами данных**: MS SQL, SQLite, Oracle SQL, MySQL
+* **Программы для работы с СУБД**: dbForge, MySQL Workbench, Microsoft SQL Server Management Studio, Microsoft Access
+* **Среды программирования**: Microsoft Visual Studio, Xcode, PyCharm, Eclipse, Qt Creator
+* **Текстовые редакторы**: Visual Studio Code, textEdit, Notepad
+* **Программы для работы с документами**: Google Sheets, Google Docs, Google Slides, Google Notes, Microsoft Word, Microsoft Excel, Microsoft Visio, Microsoft PowerPoint, Microsoft OneNote
+* **Игровые движки**: Unity3D, Godot
+* **Среды симулирования и моделирования**: Audodesk AutoCAD, Blender, V-REP3, Google SketchUp, Paint 3D, RoboDK, Visual Components
+* **Фреймворки**: .NET Framework, .NET Core, Mono, Unity, ASP.NET Core, Emgu CV Qt, GSL, MFC, OpenCV, Django
+* **Модели программирования**: функциональное, объектно-ориентированное, логическое, структурное, декларативное, императивное
+* **Принципы программирования**: Object Calisthenics, KISS, DRY, YANGI
+* **Паттерны программирования**: Strategy, Iterator, State, Observer, Template method, Proxy, Factory method, Singleton, Prototype, Facade
 
 ---
 ## Примеры кода
@@ -53,16 +53,16 @@ function Hello(){
 + Период: 19.07.2019-30.11.2020
 + Адрес: г. Брест, ул. Комсомольская, 1
 + Должность: Инженер-программист
-+ Разработанные проекты: 
+[comment]: <> (+ Разработанные проекты:)
 + Используемые языки: C#, XAML, PL SQL
 + Используемые технологии: Entity Framework, Linq, WPF, Git
 + Используемые программы: Visual Studio, My
 2. Работа
 + Организация: РУП "Главный расчетный информационный центр"
 + Период: 08.12.2020-04.01.2022
-+ Адрес: г. Брест, ул. Комсомольская, 1
++ Адрес: г. Минск, ул. Брест-Литовская, 9
 + Должность: Инженер-программист
-+ Разработанные проекты: 
+[comment]: <> (+ Разработанные проекты:)
 + Используемые языки: C#, XAML, PL SQL
 + Используемые технологии: Entity Framework, Linq, WPF, Git
 + Используемые программы: Visual Studio, My
